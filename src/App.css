@@ -101,7 +101,9 @@ margin-top: 5px;
     width: 40px;
 }
 .right img{
-    width: 700px;
+
+    width:600px;
+    max-width: 700px;
     transform: scale(0);
     animation:  zoom-in 1.5s ease forwards;
 }
